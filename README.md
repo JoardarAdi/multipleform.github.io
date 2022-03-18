@@ -1,4 +1,5 @@
 ## Deploying first webpage on Github.
+A simple webpage for 'Login/Registration' action. The submit button won't take you anywhere (yet) :)
 To view the webpage, visit:"https://joardaradi.github.io/multipleform.github.io/
 
 
